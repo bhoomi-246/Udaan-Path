@@ -1,0 +1,332 @@
+[
+{
+"questionText": "Which activity would you enjoy doing during a free weekend?",
+"options": [
+{"text": "Repairing a broken appliance", "riasecTag": "R"},
+{"text": "Reading about scientific discoveries", "riasecTag": "I"},
+{"text": "Writing a short story", "riasecTag": "A"},
+{"text": "Volunteering at a community center", "riasecTag": "S"},
+{"text": "Planning a small business idea", "riasecTag": "E"},
+{"text": "Organizing your study schedule neatly", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which school subject do you feel most excited about?",
+"options": [
+{"text": "Practical workshop or lab work", "riasecTag": "R"},
+{"text": "Physics or Biology", "riasecTag": "I"},
+{"text": "Literature or Fine Arts", "riasecTag": "A"},
+{"text": "Psychology or Sociology", "riasecTag": "S"},
+{"text": "Business Studies", "riasecTag": "E"},
+{"text": "Accountancy or Mathematics", "riasecTag": "C"}
+]
+},
+{
+"questionText": "In a group project, what role would you prefer?",
+"options": [
+{"text": "Handling technical setup", "riasecTag": "R"},
+{"text": "Analyzing research data", "riasecTag": "I"},
+{"text": "Designing presentation visuals", "riasecTag": "A"},
+{"text": "Supporting team members", "riasecTag": "S"},
+{"text": "Leading and organizing the team", "riasecTag": "E"},
+{"text": "Managing documentation and records", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of problems do you like solving?",
+"options": [
+{"text": "Mechanical or physical problems", "riasecTag": "R"},
+{"text": "Logical or scientific puzzles", "riasecTag": "I"},
+{"text": "Creative expression challenges", "riasecTag": "A"},
+{"text": "People-related issues", "riasecTag": "S"},
+{"text": "Business or financial challenges", "riasecTag": "E"},
+{"text": "Organizational or scheduling problems", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which environment do you feel most comfortable in?",
+"options": [
+{"text": "Workshop or technical lab", "riasecTag": "R"},
+{"text": "Research laboratory", "riasecTag": "I"},
+{"text": "Studio or creative space", "riasecTag": "A"},
+{"text": "Classroom or counseling room", "riasecTag": "S"},
+{"text": "Corporate office or startup space", "riasecTag": "E"},
+{"text": "Administrative office with structured systems", "riasecTag": "C"}
+]
+},
+{
+"questionText": "If given a choice, which task would you select?",
+"options": [
+{"text": "Installing equipment", "riasecTag": "R"},
+{"text": "Conducting an experiment", "riasecTag": "I"},
+{"text": "Designing a logo", "riasecTag": "A"},
+{"text": "Teaching a lesson", "riasecTag": "S"},
+{"text": "Pitching a new idea", "riasecTag": "E"},
+{"text": "Preparing financial reports", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What motivates you most?",
+"options": [
+{"text": "Building something practical", "riasecTag": "R"},
+{"text": "Discovering new knowledge", "riasecTag": "I"},
+{"text": "Expressing creativity", "riasecTag": "A"},
+{"text": "Making a difference in people’s lives", "riasecTag": "S"},
+{"text": "Achieving leadership success", "riasecTag": "E"},
+{"text": "Maintaining order and accuracy", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which internship would you choose?",
+"options": [
+{"text": "Mechanical workshop trainee", "riasecTag": "R"},
+{"text": "Research assistant", "riasecTag": "I"},
+{"text": "Graphic design intern", "riasecTag": "A"},
+{"text": "NGO volunteer", "riasecTag": "S"},
+{"text": "Marketing executive trainee", "riasecTag": "E"},
+{"text": "Accounting assistant", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of future job appeals to you most?",
+"options": [
+{"text": "Technical fieldwork", "riasecTag": "R"},
+{"text": "Scientific research role", "riasecTag": "I"},
+{"text": "Creative media job", "riasecTag": "A"},
+{"text": "Teaching or healthcare role", "riasecTag": "S"},
+{"text": "Business management position", "riasecTag": "E"},
+{"text": "Administrative officer", "riasecTag": "C"}
+]
+},
+{
+"questionText": "How do you prefer to spend your time?",
+"options": [
+{"text": "Working with tools or machines", "riasecTag": "R"},
+{"text": "Reading research articles", "riasecTag": "I"},
+{"text": "Practicing art or music", "riasecTag": "A"},
+{"text": "Helping others solve problems", "riasecTag": "S"},
+{"text": "Planning ventures or projects", "riasecTag": "E"},
+{"text": "Organizing data and schedules", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which activity sounds most interesting to you?",
+"options": [
+{"text": "Assembling mechanical parts", "riasecTag": "R"},
+{"text": "Studying how artificial intelligence works", "riasecTag": "I"},
+{"text": "Creating short films", "riasecTag": "A"},
+{"text": "Guiding students in studies", "riasecTag": "S"},
+{"text": "Running a small online store", "riasecTag": "E"},
+{"text": "Maintaining office documentation", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which task would you willingly take responsibility for?",
+"options": [
+{"text": "Repairing school equipment", "riasecTag": "R"},
+{"text": "Conducting a science project", "riasecTag": "I"},
+{"text": "Designing a creative campaign", "riasecTag": "A"},
+{"text": "Organizing a charity event", "riasecTag": "S"},
+{"text": "Managing a business competition team", "riasecTag": "E"},
+{"text": "Preparing financial summaries", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of challenge excites you?",
+"options": [
+{"text": "Fixing a technical fault", "riasecTag": "R"},
+{"text": "Solving a complex research problem", "riasecTag": "I"},
+{"text": "Producing a creative artwork", "riasecTag": "A"},
+{"text": "Supporting someone emotionally", "riasecTag": "S"},
+{"text": "Growing a business idea", "riasecTag": "E"},
+{"text": "Structuring and organizing information", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which work environment would you prefer?",
+"options": [
+{"text": "Industrial workshop", "riasecTag": "R"},
+{"text": "Scientific research center", "riasecTag": "I"},
+{"text": "Art studio", "riasecTag": "A"},
+{"text": "School or counseling center", "riasecTag": "S"},
+{"text": "Corporate boardroom", "riasecTag": "E"},
+{"text": "Government administrative office", "riasecTag": "C"}
+]
+},
+{
+"questionText": "If given a summer project, what would you choose?",
+"options": [
+{"text": "Technical field training", "riasecTag": "R"},
+{"text": "Research internship", "riasecTag": "I"},
+{"text": "Creative media internship", "riasecTag": "A"},
+{"text": "Social service internship", "riasecTag": "S"},
+{"text": "Business development internship", "riasecTag": "E"},
+{"text": "Accounting internship", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of books do you prefer reading?",
+"options": [
+{"text": "Mechanical or technical manuals", "riasecTag": "R"},
+{"text": "Science and research-based books", "riasecTag": "I"},
+{"text": "Fiction or poetry", "riasecTag": "A"},
+{"text": "Self-help or psychology books", "riasecTag": "S"},
+{"text": "Business and leadership books", "riasecTag": "E"},
+{"text": "Finance or law books", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of competition would you participate in?",
+"options": [
+{"text": "Robotics or technical build challenge", "riasecTag": "R"},
+{"text": "Science quiz competition", "riasecTag": "I"},
+{"text": "Art or music competition", "riasecTag": "A"},
+{"text": "Debate on social issues", "riasecTag": "S"},
+{"text": "Business pitch competition", "riasecTag": "E"},
+{"text": "Accounting or data analysis contest", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which daily activity would make you happiest?",
+"options": [
+{"text": "Working with tools", "riasecTag": "R"},
+{"text": "Discovering new theories", "riasecTag": "I"},
+{"text": "Designing creative content", "riasecTag": "A"},
+{"text": "Helping others improve", "riasecTag": "S"},
+{"text": "Planning strategic growth", "riasecTag": "E"},
+{"text": "Organizing schedules and data", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which skill would you most like to improve?",
+"options": [
+{"text": "Technical repair skills", "riasecTag": "R"},
+{"text": "Scientific research skills", "riasecTag": "I"},
+{"text": "Creative design skills", "riasecTag": "A"},
+{"text": "Communication and counseling skills", "riasecTag": "S"},
+{"text": "Leadership and negotiation skills", "riasecTag": "E"},
+{"text": "Financial management skills", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What type of success appeals to you most?",
+"options": [
+{"text": "Building something functional", "riasecTag": "R"},
+{"text": "Discovering something new", "riasecTag": "I"},
+{"text": "Creating something beautiful", "riasecTag": "A"},
+{"text": "Making a positive social impact", "riasecTag": "S"},
+{"text": "Achieving business growth", "riasecTag": "E"},
+{"text": "Maintaining efficient systems", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of role would you choose in a startup?",
+"options": [
+{"text": "Technical operations manager", "riasecTag": "R"},
+{"text": "Research and innovation lead", "riasecTag": "I"},
+{"text": "Creative content head", "riasecTag": "A"},
+{"text": "Community engagement manager", "riasecTag": "S"},
+{"text": "CEO or business strategist", "riasecTag": "E"},
+{"text": "Finance and compliance manager", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which school club would you join?",
+"options": [
+{"text": "Robotics club", "riasecTag": "R"},
+{"text": "Science research club", "riasecTag": "I"},
+{"text": "Drama or art club", "riasecTag": "A"},
+{"text": "Social service club", "riasecTag": "S"},
+{"text": "Entrepreneurship club", "riasecTag": "E"},
+{"text": "Commerce or finance club", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What type of internship would excite you?",
+"options": [
+{"text": "Mechanical technician trainee", "riasecTag": "R"},
+{"text": "Lab research assistant", "riasecTag": "I"},
+{"text": "Graphic design intern", "riasecTag": "A"},
+{"text": "Healthcare volunteer", "riasecTag": "S"},
+{"text": "Marketing executive intern", "riasecTag": "E"},
+{"text": "Bank operations intern", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which workplace task sounds most satisfying?",
+"options": [
+{"text": "Troubleshooting equipment", "riasecTag": "R"},
+{"text": "Analyzing scientific data", "riasecTag": "I"},
+{"text": "Producing creative campaigns", "riasecTag": "A"},
+{"text": "Teaching and mentoring students", "riasecTag": "S"},
+{"text": "Closing business deals", "riasecTag": "E"},
+{"text": "Managing regulatory paperwork", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What motivates you daily?",
+"options": [
+{"text": "Practical achievement", "riasecTag": "R"},
+{"text": "Intellectual discovery", "riasecTag": "I"},
+{"text": "Creative expression", "riasecTag": "A"},
+{"text": "Helping people succeed", "riasecTag": "S"},
+{"text": "Leadership recognition", "riasecTag": "E"},
+{"text": "Organized efficiency", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which career area feels natural to you?",
+"options": [
+{"text": "Engineering or technical services", "riasecTag": "R"},
+{"text": "Research and innovation", "riasecTag": "I"},
+{"text": "Media and creative arts", "riasecTag": "A"},
+{"text": "Education and healthcare", "riasecTag": "S"},
+{"text": "Business and entrepreneurship", "riasecTag": "E"},
+{"text": "Banking and administration", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What kind of project would you lead?",
+"options": [
+{"text": "Building a prototype machine", "riasecTag": "R"},
+{"text": "Conducting a scientific survey", "riasecTag": "I"},
+{"text": "Producing a short film", "riasecTag": "A"},
+{"text": "Organizing a social awareness campaign", "riasecTag": "S"},
+{"text": "Launching a startup event", "riasecTag": "E"},
+{"text": "Preparing structured documentation", "riasecTag": "C"}
+]
+},
+{
+"questionText": "Which daily routine suits you best?",
+"options": [
+{"text": "Hands-on technical tasks", "riasecTag": "R"},
+{"text": "Analytical research tasks", "riasecTag": "I"},
+{"text": "Creative brainstorming sessions", "riasecTag": "A"},
+{"text": "Meeting and guiding people", "riasecTag": "S"},
+{"text": "Business planning meetings", "riasecTag": "E"},
+{"text": "Structured office workflow", "riasecTag": "C"}
+]
+},
+{
+"questionText": "What would you prefer to learn?",
+"options": [
+{"text": "Machine operations", "riasecTag": "R"},
+{"text": "Advanced scientific theories", "riasecTag": "I"},
+{"text": "Digital design tools", "riasecTag": "A"},
+{"text": "Counseling techniques", "riasecTag": "S"},
+{"text": "Business strategy models", "riasecTag": "E"},
+{"text": "Financial accounting systems", "riasecTag": "C"}
+]
+},
+{
+"questionText": "In the future, you see yourself as someone who:",
+"options": [
+{"text": "Builds and repairs systems", "riasecTag": "R"},
+{"text": "Discovers and analyzes knowledge", "riasecTag": "I"},
+{"text": "Creates and inspires through art", "riasecTag": "A"},
+{"text": "Supports and guides others", "riasecTag": "S"},
+{"text": "Leads and grows enterprises", "riasecTag": "E"},
+{"text": "Organizes and manages operations", "riasecTag": "C"}
+]
+}
+]
